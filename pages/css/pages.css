@@ -16,3 +16,137 @@ img {
 }
 
 /* Voeg jouw css hieraan toe */
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.header1{
+    font-family: 'Pacifico', sans-serif;
+    font-size: 100px ;
+    color: #D57067;
+    padding: 6%;
+
+}
+.header2{
+    font-family: 'Pacifico', sans-serif;
+    font-size: 178px ;
+    color: #FFFF;
+    background-color: #333;
+    padding: 6%;
+
+}
+.header3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 56px ;
+    color: #000;
+    padding: 6%;
+
+}
+.color1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px ;
+    color: #000;
+    background-color: #D57067;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    margin: 5px;
+}
+.color2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px ;
+    color: #000;
+    background-color: #FFFF;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    margin: 5px;
+}
+.color3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px ;
+    color: #FFFF;
+    background-color: #000000;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    margin: 5px;
+}
+.color4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px ;
+    color: #000;
+    background-color: #FFD461;
+    width: 250px;
+    height: 250px;
+    padding: 2%;
+    margin: 5px;
+}
+.color5{
+   font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 20px ;
+    color: #000;
+    background-color: #78C4BC;
+    width: 250px;
+    height: 250px;
+    padding: 2%; 
+    margin: 5px;
+}
+.color6{
+    font-family: 'Montserrat', sans-serif;
+     font-weight: bold;
+     font-size: 20px ;
+     color: #000;
+     background-color: #E4DCCB;
+     width: 250px;
+     height: 250px;
+     padding: 2%; 
+     margin: 5px;
+ }
+ .wrapper {
+    display: flex;
+    min-width: 100%;
+    align-items: stretch;
+    justify-content: stretch;
+    box-sizing: border-box;
+}
+ .button1{
+     width: 260px;
+     height: 94px;
+     background-color: #FFD461;
+ }
+ .button2{
+    width: 382px;
+    height: 72px;
+    background-color: #D57067;
+}
+.button3{
+    width: 382px;
+    height: 72px;
+    background-color: #78C4BC;
+}
+.button4{
+    width: 270px;
+    height: 68px;
+    background-color: #E4DCCB;
+}
+.button5{
+    width: 128px;
+    height: 44px;
+    background-color: #E4DCCB;
+}
+.button6{
+    width: 177px;
+    height: 44px;
+    background-color: #E4DCCB;
+}
+.button7{
+    width: 132px;
+    height: 44px;
+    background-color: #FFD461;
+}
