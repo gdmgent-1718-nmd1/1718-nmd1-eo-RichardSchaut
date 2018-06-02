@@ -152,20 +152,26 @@ img {
         background-color: #E4DCCB;
     }
     p.button5{
+        font-size: 15pt;
         width: 128px;
         height: 44px;
         background-color: #E4DCCB;
+        border: 2px solid black;
         border-radius: 5px;
     }
     p.button6{
+        font-size: 15pt;
         width: 177px;
         height: 44px;
         background-color: #E4DCCB;
+        border: 2px solid black;
         border-radius: 5px;
     }
     p.button7{
+        font-size: 15pt;
         width: 132px;
         height: 44px;
         background-color: #FFD461;
         border-radius: 5px;
+        
     }
